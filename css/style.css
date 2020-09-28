@@ -1,25 +1,26 @@
 body {
-  background-color: #efeee7; 
-  font: Georgia,"Times New Roman",Times,serif; 
-  color: #333333; 
-  padding: 0;
+    background-color: #efeee7;
+    font: Georgia, "Times New Roman", Times, serif;
+    color: #333333;
+    padding: 0;
 }
 
 header {
-  color: #333333; 
+    color: #333333;
 }
 
 h1 {
-  color: #eee; font-size: 28px;  
+    color: #eee;
+    font-size: 28px;
 }
 
 h2 {
-  font: 24px;
+    font: 24px;
 }
 
 .containers {
-    margin: 0 auto; 
-    width: 1024px; 
+    margin: 0 auto;
+    width: 1024px;
 }
 
 #main-bio {
@@ -33,7 +34,7 @@ h2 {
 }
 
 #bio-image {
-    float: left; 
+    float: left;
     width: 200px;
 }
 
@@ -42,7 +43,7 @@ h2 {
 }
 
 p {
-    line-height: 1.5; 
+    line-height: 1.5;
 }
 
 a {
